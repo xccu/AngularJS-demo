@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a1c6ff-6721-4fa3-884c-fb83da195fab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/教程/1.AngularJS 简介.docx" beforeDir="false" afterPath="$PROJECT_DIR$/教程/1.AngularJS 简介.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/教程/2.AngularJS 表达式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/教程/2.AngularJS 表达式.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/教程/AngularJS 教程.docx" beforeDir="false" afterPath="$PROJECT_DIR$/教程/AngularJS 教程.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/教程/链接.txt" beforeDir="false" afterPath="$PROJECT_DIR$/教程/链接.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -37,6 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -72,6 +76,7 @@
       <updated>1603281430796</updated>
       <workItem from="1603281431950" duration="3455000" />
       <workItem from="1603289271201" duration="856000" />
+      <workItem from="1603329341039" duration="2783000" />
     </task>
     <servers />
   </component>
@@ -83,7 +88,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
