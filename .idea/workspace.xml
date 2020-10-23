@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a1c6ff-6721-4fa3-884c-fb83da195fab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/教程/4.AngularJS ng-model 指令.docx" beforeDir="false" afterPath="$PROJECT_DIR$/教程/4.AngularJS ng-model 指令.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/教程/5.AngularJS Scope(作用域).docx" beforeDir="false" afterPath="$PROJECT_DIR$/教程/5.AngularJS Scope(作用域).docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +71,8 @@
       <workItem from="1603289271201" duration="856000" />
       <workItem from="1603329341039" duration="2783000" />
       <workItem from="1603415193528" duration="1318000" />
+      <workItem from="1603440371137" duration="149000" />
+      <workItem from="1603442569966" duration="957000" />
     </task>
     <servers />
   </component>
