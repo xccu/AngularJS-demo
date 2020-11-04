@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a1c6ff-6721-4fa3-884c-fb83da195fab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/nameController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/personController.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/教程/5.AngularJS Scope(作用域).docx" beforeDir="false" afterPath="$PROJECT_DIR$/教程/5.AngularJS Scope(作用域).docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -37,12 +39,13 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Desktop\AngularJS-demo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\Desktop\AngularJS-demo" />
       <recent name="C:\Users\ASUS\Desktop\AngularJS-demo\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xcy\Desktop\javademo\AngularJS-demo" />
+      <recent name="C:\Users\ASUS\Desktop\AngularJS-demo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -73,6 +76,8 @@
       <workItem from="1603415193528" duration="1318000" />
       <workItem from="1603440371137" duration="149000" />
       <workItem from="1603442569966" duration="957000" />
+      <workItem from="1603704981450" duration="134000" />
+      <workItem from="1604474065016" duration="883000" />
     </task>
     <servers />
   </component>
