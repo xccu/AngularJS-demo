@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a1c6ff-6721-4fa3-884c-fb83da195fab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sites.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/angular.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/angular.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/教程/9.AngularJS XMLHttpRequest.docx" beforeDir="false" afterPath="$PROJECT_DIR$/教程/9.AngularJS XMLHttpRequest.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,8 @@
       <workItem from="1603442569966" duration="957000" />
       <workItem from="1603704981450" duration="134000" />
       <workItem from="1604474065016" duration="1432000" />
-      <workItem from="1604908021580" duration="3860000" />
+      <workItem from="1604908021580" duration="4532000" />
+      <workItem from="1605503733351" duration="1745000" />
     </task>
     <servers />
   </component>
